@@ -11,11 +11,10 @@ Januar 2024
 Verantwortlich für die Datenverarbeitung
 
 Sushi O´Clock (Gurdeep Singh) <br>
-Raffaelgasse 20,<br>
-1200 Wien <br>
-Tel: 06607671081 <br>
-E-Mail: office@sushi-oclock.at <br>
-Web: www.sushi-oclock.at
+[Raffaelgasse 20, 1200 Wien](https://maps.app.goo.gl/VEvBSEegjoKpVsvD7) <br>
+Tel: [06607671081](tel:+436607671081) <br>
+E-Mail: [office@sushi-oclock.at](mailto:office@sushi-oclock.at) <br>
+Web: [Sushi O'Clock](https://www.sushi-oclock.at)
 
 Der Verantwortliche wird in der Folge kurz „Sushi O’Clock” genannt.
 
