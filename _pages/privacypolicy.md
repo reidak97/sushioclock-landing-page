@@ -13,8 +13,8 @@ Verantwortlich für die Datenverarbeitung
 Sushi O´Clock (Gurdeep Singh) <br>
 [Raffaelgasse 20, 1200 Wien](https://maps.app.goo.gl/VEvBSEegjoKpVsvD7) <br>
 Tel: [06607671081](tel:+436607671081) <br>
-E-Mail: [office@sushi-oclock.at](mailto:office@sushi-oclock.at) <br>
-Web: [Sushi O'Clock](https://www.sushi-oclock.at)
+E-Mail: [office@sushi-oclock.com](mailto:office@sushi-oclock.com) <br>
+Web: [Sushi O'Clock](https://www.sushi-oclock.com)
 
 Der Verantwortliche wird in der Folge kurz „Sushi O’Clock” genannt.
 
@@ -24,7 +24,7 @@ Der Verantwortliche wird in der Folge kurz „Sushi O’Clock” genannt.
 
 ### Zwecke der Datenverarbeitung und Rechtsgrundlage
 
-„Sushi O’Clock“ erhebt, verarbeitet und nutzt die personenbezogenen Daten der Kunden zur Erfüllung von vertraglichen Pflichten (Art. 6 Abs. 1 b DSGVO): Herausgabe/Administrierung der Kundenkarte, Verwaltung des Sushi O’Clock-Rabatt-Punkte-Systems, Betreiben einer Speisen-Bestellplattform gemäß den AGB von „Sushi O’Clock“. Details zum Zweck der Datenverarbeitung können den AGB von „Sushi O’Clock“, jederzeit abrufbar auf der Website www.sushi-oclock.at, entnommen werden. Jede allenfalls über die Vertragserfüllung hinausgehende Verarbeitung von Daten geschieht ausschließlich, wenn dafür eine sonstige rechtliche Grundlage gemäß DSGVO gegeben ist.
+„Sushi O’Clock“ erhebt, verarbeitet und nutzt die personenbezogenen Daten der Kunden zur Erfüllung von vertraglichen Pflichten (Art. 6 Abs. 1 b DSGVO): Herausgabe/Administrierung der Kundenkarte, Verwaltung des Sushi O’Clock-Rabatt-Punkte-Systems, Betreiben einer Speisen-Bestellplattform gemäß den AGB von „Sushi O’Clock“. Details zum Zweck der Datenverarbeitung können den AGB von „Sushi O’Clock“, jederzeit abrufbar auf der Website [www.sushi-oclock.com](https://www.sushi-oclock.com), entnommen werden. Jede allenfalls über die Vertragserfüllung hinausgehende Verarbeitung von Daten geschieht ausschließlich, wenn dafür eine sonstige rechtliche Grundlage gemäß DSGVO gegeben ist.
 
 ### Dauer
 
